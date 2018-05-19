@@ -14,13 +14,13 @@ url: "https://ekuj88.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: iv1
-facebook_username: iv1.water
-github_username:  iv1
-email: iv1@126.com
-weibo_username: iv1
-zhihu_username: iv1
-linkedIn_username: iv1
+twitter_username: 
+facebook_username: 
+github_username:ekuj88
+email: ekuj@163.com
+weibo_username: 
+zhihu_username: 
+linkedIn_username: 
 dribbble_username:
 
 description_footer: 我爱编程！
