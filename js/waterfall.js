@@ -104,34 +104,6 @@
       title: 'Ghost Button 幽灵按钮',
       core_tech: 'CSS3',
       description: '使用 CSS3 中的旋转、缩放、过渡、动画等效果，制作出很酷的按钮效果。'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/shadow-demo-css3',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/Demoshadow.png',
-      code_link: 'https://github.com/Gaohaoyang/shadow-demo-css3',
-      title: 'CSS3 阴影特效',
-      core_tech: 'CSS3',
-      description: 'CSS3 中的阴影、旋转等效果，制作出曲边阴影和翘边阴影。'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/learning-AngularJS/2-3-bookstore-add-sth-by-myself/',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/DemoAngularJS.png',
-      code_link: 'https://github.com/Gaohaoyang/learning-AngularJS/tree/master/2-3-bookstore-add-sth-by-myself',
-      title: 'AngularJS 结合动画效果',
-      core_tech: 'AngularJS CSS3',
-      description: '使用 AngularJS 中的 ngAnimate 加 CSS3里面的一些旋转效果，做出页面切换的效果。'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/learning-AngularJS/2-4-UiRouterPractice',
-      img_link: 'http://ww2.sinaimg.cn/large/7011d6cfjw1f3b8zumfqij20q40nh76x.jpg',
-      code_link: 'https://github.com/Gaohaoyang/learning-AngularJS/tree/master/2-4-UiRouterPractice',
-      title: 'AngularJS UI-router 练习',
-      core_tech: 'AngularJS UI-router',
-      description: 'UI-router 作为 AngularJS 中路由的扩充，实现了多级路由的效果。使得前端界面跳转更加方便。'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/test/bootstrap-zhihu/',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/teach-girlfriend-html-CopyZhihu.jpg',
-      code_link: 'https://github.com/Gaohaoyang/test/tree/master/bootstrap-zhihu',
-      title: '仿知乎页面',
-      core_tech: 'HTML BootStrap',
-      description: '使用BootStrap仿照知乎做了一个静态页面。'
     }
   ];
 
