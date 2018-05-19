@@ -29,7 +29,10 @@ description_footer: 我爱编程！
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: iv1
+disqus_shortname: #iv1
+comment_client_id: 1d6b7cc368ec7e67fa8d
+comment_client_secret: 1f44a4443f267e986613d9cd5dcf83b922e0ad50
+github_url: ekuj88.github.io
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
