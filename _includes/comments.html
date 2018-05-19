@@ -1,14 +1,14 @@
-{% if comment_client_id %}
+{% if site.comment_client_id %}
 <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
 <script>
 var gitment = new Gitment({
   //id: '页面 ID', // 可选。默认为 location.href
-  owner: '{{github_username}}',
-  repo: '{{github_url}}',
+  owner: '{{site.github_username}}',
+  repo: '{{site.github_url}}',
   oauth: {
-    client_id: '{{comment_client_id}}',
-    client_secret: '{{comment_client_secret}}',
+    client_id: '{{site.comment_client_id}}',
+    client_secret: '{{site.comment_client_secret}}',
   },
 })
 gitment.render('container')
