@@ -1,3 +1,19 @@
+{% if OAutho_id %}
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  //id: '页面 ID', // 可选。默认为 location.href
+  owner: 'ekuj88',
+  repo: 'ekuj88.github.io',
+  oauth: {
+    client_id: '1d6b7cc368ec7e67fa8d',
+    client_secret: '1f44a4443f267e986613d9cd5dcf83b922e0ad50',
+  },
+})
+gitment.render('container')
+</script>
+{% endif %}
 {% if site.duoshuo_shortname %}
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="{{ site.url }}{{ page.url }}" data-title="{{page.title}}" data-url="{{ site.url }}{{ page.url }}"></div>
