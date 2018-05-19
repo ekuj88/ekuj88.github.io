@@ -7,7 +7,7 @@
 
 # Site settings
 title: iv1的博客
-brief-intro: Front-end Dev Engineer
+brief-intro: Software Development Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ekuj88.github.io" # the base hostname & protocol for your site
 
