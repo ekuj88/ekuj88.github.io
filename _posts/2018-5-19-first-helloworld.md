@@ -13,7 +13,7 @@ date:   2016-11-10 15:14:54
 Hello World!
 iv1的博客正式开通
 
-[页内锚点](#六级)
+[页内锚点](./#六级)
 
 # markdown基本语法
 ## 二级
@@ -27,7 +27,7 @@ iv1的博客正式开通
 - 同级
 - 同级
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
 
 ![](https://img.alicdn.com/tfs/TB18QnlOpXXXXcVXpXXXXXXXXXX-388-256.png)
 
