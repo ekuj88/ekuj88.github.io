@@ -46,3 +46,4 @@ def aaa:
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
+And, of course emoji! :sparkles: :camel: :boom:
