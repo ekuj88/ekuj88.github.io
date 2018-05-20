@@ -12,7 +12,7 @@ date:   2016-11-10 15:14:54
 {:toc}
 Hello World!
 iv1的博客正式开通
-
+[页内锚点](###### 六级)
 
 # markdown基本语法
 cc
@@ -30,10 +30,9 @@ gg
 **加粗**
 - 同级
 - 同级
-
+![](https://img.alicdn.com/tfs/TB16.GnOpXXXXXdapXXXXXXXXXX-307-134.png)
 [连接文字三](http://www.126.com 'title是网易')
 
-'这里是代码'
 `着重显示`
 ```python
 def aaa:
