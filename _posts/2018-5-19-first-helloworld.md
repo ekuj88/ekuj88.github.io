@@ -26,7 +26,8 @@ iv1的博客正式开通
 **加粗**
 - 同级
 - 同级
-
+* 序列1
+* 序列2
 ![](https://img.alicdn.com/tfs/TB18QnlOpXXXXcVXpXXXXXXXXXX-388-256.png)
 
 [连接文字三](http://www.126.com 'title是网易')
