@@ -27,10 +27,7 @@ iv1的博客正式开通
 - 同级
 - 同级
 
-
-* 序列1
-* 序列2
-
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 ![](https://img.alicdn.com/tfs/TB18QnlOpXXXXcVXpXXXXXXXXXX-388-256.png)
 
