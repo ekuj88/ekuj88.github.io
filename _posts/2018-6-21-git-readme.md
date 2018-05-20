@@ -2,7 +2,7 @@
 layout: post
 title:  "GitHub教程"
 categories: Tutorial
-tags:  GitHub New
+tags:  GitHub Tutorial
 author: iv1
 mathjax: true
 date:   2016-12-8 15:14:54
