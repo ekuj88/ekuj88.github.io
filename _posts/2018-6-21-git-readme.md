@@ -11,17 +11,17 @@ date:   2016-12-8 15:14:54
 * content
 {:toc}
 
-#GitHub教程
+# GitHub教程
 GitHub是最顶尖的代码版本管理工具之一，支持个人离线、团队在线协作的版本管理工具。本文简要讲解它的使用方法。
 
-##注册GitHub账号
+## 注册GitHub账号
 * 点击连接，进入[GitHub官网](https://github.com/)，免费注册账号。
 * 注册完成后，登录官网，找找添加新的仓库的地方。“仓库”叫做Repositories。 你的每个开发项目都以仓库为单位，用于版本管理。
 * 免费版的代码仓库中的代码是对所有人公开的、只读的，需要你的授权才能修改。普通项目免费版功能完全够用了。收费版可以完全保密，每月7美元。
 
 ## Windows系统下Git环境的部署
 
-###安装 git 
+### 安装 git 
 下载地址[https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ### 创建项目工作区
