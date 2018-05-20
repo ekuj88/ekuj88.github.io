@@ -42,8 +42,7 @@ def aaa:
 <!--我是注释内容，前台不显示。上面三个横线就是分隔符-->
 > 引用一位伟人的话 [维基百科](https://zh.wikipedia.org/wiki/Markdown)
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+* [x] Finish my changes
+* [ ] Push my commits to GitHub
+* [ ] Open a pull request
 
-And, of course emoji! :sparkles: :camel: :boom:
