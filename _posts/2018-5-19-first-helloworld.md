@@ -42,26 +42,5 @@ def aaa:
 <!--我是注释内容，前台不显示。上面三个横线就是分隔符-->
 > 引用一位伟人的话 [维基百科](https://zh.wikipedia.org/wiki/Markdown)
 
-使用 `- [ ]` 和 `- [x]` 语法可以创建复选框，[] 三个符号中间都有空格，实现 todo-list 等功能。例如：
- [x] 已完成事项
- [ ] 待办事项1
- [ ] 待办事项2
-
-
-### 快捷键
-
-帮助    `Ctrl + /`
-同步文档    `Ctrl + S`
-创建文档    `Ctrl + Alt + N`
-最大化编辑器    `Ctrl + Enter`
-预览文档 `Ctrl + Alt + Enter`
-文档管理    `Ctrl + O`
-系统菜单    `Ctrl + M` 
-
-加粗    `Ctrl + B`
-插入图片    `Ctrl + G`
-插入链接    `Ctrl + L`
-提升标题    `Ctrl + H`
-
 
 
