@@ -28,6 +28,13 @@
     </div>
 </footer>
 <script>
+lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true,
+      'alwaysShowNavOnTouchDevices': true,
+      'fadeDuration':100,
+      'imageFadeDuration':100,
+    })
 $('article').find('img').each(function(){
     var img = this;
       img.style.width = "180px";
