@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "GitHub教程"
 categories: Tutorial
@@ -10,20 +10,26 @@ date:   2016-12-8 15:14:54
 
 * content
 {:toc}
+#GitHub教程
+GitHub是最顶尖的代码版本管理工具之一，支持个人离线、团队在线协作的版本管理工具。本文简要讲解它的使用方法。
 
-GitHub是主流的代码版本管理工具，支持个人离线、团队在线协作的版本管理工具。本文简要讲解它的使用方法。
-
-
-
-## 注册GitHub账号
-* 点击连接，进入[GitHub官网](https://github.com/)，免费注册账号。
-* 注册完成后，登录官网，找找添加新的仓库的地方。“仓库”叫做Repositories。 你的每个开发项目都以仓库为单位，用于版本管理。
+`本教程格式的约定：`
+- `标注🐵符号，需要自己进行探索性操作，才能理解的知识点`
+- `标注🐶符号，需要牢记的操作`
+- `标注🐯符号，重要的知识点`
+- `标注🍸符号，是额外的知识`
+##注册GitHub账号
+* 进入[GitHub官网：https://github.com](https://github.com/)，免费注册账号。
+* 登录官网，🐵在线添加新的仓库，使用默认选项。“仓库”叫做Repositories。每个开发项目都以仓库为单位进行版本管理。
 * 免费版的代码仓库中的代码是对所有人公开的、只读的，需要你的授权才能修改。普通项目免费版功能完全够用了。收费版可以完全保密，每月7美元。
 
 ## Windows系统下Git环境的部署
 
-### 安装 git 
-下载地址[https://git-scm.com/downloads](https://git-scm.com/downloads)
+###安装 git 
+Git为Windows用户提供极简化版的Linux命令行窗口，用于执行GitHub相关命令。
+🐵下载地址：[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+![Alt text](http://blog.iv1.xin/img/180520/01.jpg)
 
 ### 创建项目工作区
 #### 创建目录
