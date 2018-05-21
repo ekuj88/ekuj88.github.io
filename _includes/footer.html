@@ -1,4 +1,4 @@
-<footer class="site-footer">
+﻿<footer class="site-footer">
 
 
     <div class="wrapper">
@@ -27,4 +27,21 @@
         </p>
     </div>
 </footer>
+<script>
+$('article').find('img').each(function(){
+    var img = this;
+      img.style.width = "180px";
+      img.style.height = "auto";
+      //$(img).removeAttr('height');
+      var aTag = document.createElement('a');
+      aTag.href = img.src;
+            aTag.target="_blank";
+      //a.Tag.data-lightbox='xxx'
+     $(aTag).addClass('bPic')
+     .attr('data-lightbox','iv1')
+     .attr('data-title',img.alt)
+      .insertAfter(img).append(img)
+      
+  });
+</script>
 <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
