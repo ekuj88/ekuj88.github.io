@@ -30,8 +30,13 @@ GitHub是最顶尖的代码版本管理工具之一，支持个人离线、团�
 ### 安装 git 
 Git为Windows用户提供极简化版的Linux命令行窗口，用于执行GitHub相关命令。
 🐵下载地址：[https://git-scm.com/downloads](https://git-scm.com/downloads)
-
 ![Alt text](http://blog.iv1.xin/img/180520/01.jpg)
+![Alt text](http://blog.iv1.xin/img/180520/02.jpg)
+![Alt text](http://blog.iv1.xin/img/180520/03.jpg)
+![Alt text](http://blog.iv1.xin/img/180520/04.jpg)
+![Alt text](http://blog.iv1.xin/img/180520/05.jpg)
+![Alt text](http://blog.iv1.xin/img/180520/06.jpg)
+![Alt text](http://blog.iv1.xin/img/180520/07.jpg)
 
 ### 创建项目工作区
 #### 创建目录
